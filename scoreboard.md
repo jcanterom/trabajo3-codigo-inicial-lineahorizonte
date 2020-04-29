@@ -13,6 +13,7 @@
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo07-manana?branch=master&token=2dd10328e2ebb47fbb779fb430d9951958582f95)](https://bettercodehub.com/) | EQUIPO 7 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo08-manana?branch=master&token=dba9a890b1046d235624a742193f569e4e15e5c8)](https://bettercodehub.com/) | EQUIPO 8 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo09-manana?branch=master&token=57b65a8cdbee2e6c578b265cfd84ede49e338ae6)](https://bettercodehub.com/) | EQUIPO 9 MAÑANA |
+[![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo10-manana?branch=master&token=2afef3a053acd45f54c7ce0724d3cf83cb51a1e4)](https://bettercodehub.com/) | EQUIPO 10 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo12-manana?branch=master&token=88039cb9c1f4d6d85ac560efdf67bca660c438a0)](https://bettercodehub.com/) | EQUIPO 12 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo13-manana?branch=master&token=d1e6e590cb16c5ba3b4c2f1e5945475c95064138)](https://bettercodehub.com/) | EQUIPO 13 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo14-manana?branch=master&token=00a9eedd76e385319eb7ff51942be25d44e02f37)](https://bettercodehub.com/) | EQUIPO 14 MAÑANA |
@@ -31,6 +32,7 @@
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo10-tarde?branch=master&token=535fe61e8e552a8c64dbfbe02d8700834fbe63b8)](https://bettercodehub.com/) | EQUIPO 10 TARDE |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo12-tarde?branch=master&token=e80fc49eb1717e205d9bccf90acc0c0563a95f48)](https://bettercodehub.com/) | EQUIPO 12 TARDE |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo13-tarde?branch=master&token=ca0b85848779ba4af54550d70888f356145b7c65)](https://bettercodehub.com/) | EQUIPO 13 TARDE |
+
 
 The Better Code Hub scores are powered by the code quality industry benchmark of Software Improvement Group according to SIG/TÜViT Maintainability ISO 25010 model.
 
